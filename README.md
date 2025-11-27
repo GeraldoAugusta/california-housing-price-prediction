@@ -97,8 +97,3 @@ Distribusi error untuk melihat apakah model bias.
 
 ### ✔ Feature Importance  
 Menampilkan fitur apa yang paling berpengaruh terhadap harga rumah.
-
----
-
-## 🗂 Folder Structure
-
