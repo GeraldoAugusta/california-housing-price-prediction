@@ -1,3 +1,9 @@
+### Machine Learning Portfolio Project  
+**Author:** Geraldo Augusta
+**Email:** geraldonyoman14@gmail.com  
+**LinkedIn:** https://linkedin.com/in/geraldoaugusta  
+**GitHub:** https://github.com/geraldoaugusta  
+
 # 🏡 California Housing Price Prediction
 Proyek ini bertujuan untuk memprediksi harga rumah di California menggunakan teknik *Machine Learning Regression*. Dataset yang digunakan adalah **California Housing Dataset** dari scikit-learn.
 
